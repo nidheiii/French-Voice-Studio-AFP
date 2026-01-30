@@ -1,2 +1,1 @@
-# French-Voice-Studio-AFP
-A French language assistant app featuring Speech-to-Text, Text-to-Speech, and automated French dialogue generation.
+A mobile application designed to assist users in learning and interacting in French using voice and text technologies. The app integrates Speech-to-Text (STT), Text-to-Speech (TTS), and automatic French dialogue generation to provide a practical language interaction experience.
